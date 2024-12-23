@@ -1,3 +1,14 @@
 theme: jekyll-theme-minimal
 title: Panorama das Favelas e Comunidades Urbanas
 description: Panorama das Favelas e Comunidades Urbanas
+
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
